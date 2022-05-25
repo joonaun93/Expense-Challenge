@@ -1,0 +1,115 @@
+html {
+  min-height: 100%;
+  padding: 0%;
+  margin: 0%;
+}
+
+body {
+  text-align: center;
+  background-color: blanchedalmond;
+  font-size: 12px;
+  min-height: 100%;
+  padding: 0%;
+  margin: 0%;
+}
+
+p {
+  margin: 0px;
+}
+
+.header {
+  margin-bottom: 20px;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+.container {
+  margin: 120px auto;
+  width: 450px;
+}
+
+.container-top {
+  color: white;
+  text-align: left;
+  margin: 0px;
+  border-radius: 20px;
+  padding: 20px 25px 50px;
+  background-color: rgb(234, 89, 89);
+  height: 90px;
+}
+
+.container-btm {
+  color: darkred;
+  text-align: left;
+  margin: 20px 0px;
+  border-radius: 20px;
+  padding: 25px;
+  background-color: white;
+  height: 400px;
+}
+
+.chart {
+  height: 150px;
+  padding: 0px;
+  text-align: center;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.total {
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+.balance {
+  font-size: 20px;
+}
+
+.percentage {
+  font-weight: bolder;
+}
+
+.img {
+  text-align: right;
+}
+
+.row {
+  margin-top: 20px;
+}
+
+.chart.row {
+  margin: 0px 0px 50px 0px;
+}
+
+.col {
+  margin: 0px 8px;
+  padding: 0px;
+}
+
+.col.right {
+  text-align: right;
+  padding-top: 20px;
+}
+
+.bar-chart {
+  background-color: rgb(234, 89, 89);
+  height: 100%;
+  border-radius: 5px;
+}
+
+.bar-chart-white {
+  background-color: white;
+  height: 100%;
+  border-radius: 10px;
+}
+
+img {
+  height: 50px;
+  width: 50px;
+}
